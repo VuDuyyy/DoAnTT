@@ -27,5 +27,4 @@ Admin
 user: admin
 pass: admin123
 
-Nói chơi thôi chứ không có cho đâu nhé!
-Muốn thì liên hệ Duy Đẹp Trai: vuduynguyen7@gmail.com
+vuduynguyen7@gmail.com
